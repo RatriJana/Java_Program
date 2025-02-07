@@ -1,0 +1,15 @@
+class Program2
+{
+	public static void main(String[] args) 
+	{
+	{
+		
+			int a = 10;
+			System.out.println(a);
+	}
+	{
+		String a = "Hello";
+		System.out.println(a);
+	}
+	}
+}
